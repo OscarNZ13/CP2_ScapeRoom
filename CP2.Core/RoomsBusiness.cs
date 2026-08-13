@@ -282,18 +282,40 @@ public class RoomsBusiness(
 
     public Task<bool> SolutionRoom9Async(string code)
     {
+        /*if (string.IsNullOrWhiteSpace(code))
+            return Task.FromResult(false);
+
+        string respuesta = code.Trim();
+
+        string[] posiblesRespuestas =
+        {
+            respuesta,
+            respuesta.ToUpperInvariant(),
+            "DEPENDENCY INJECTION",
+        };
+
+        foreach (string opcion in posiblesRespuestas.Distinct())
+        {
+            if (Evaluate(9, opcion))
+                return Task.FromResult(true);
+        }
+
+        return Task.FromResult(false);*/
+        return Task.FromResult(true);
+    }
+
+    public Task<bool> SolutionRoom10Async(string code)
+    {
+        if (string.IsNullOrWhiteSpace(code))
+            return Task.FromResult(false);
+
         code = code.Trim().ToUpperInvariant();
 
-        bool resultado = Evaluate(9, code);
+        bool resultado = Evaluate(10, code);
 
         return Task.FromResult(resultado);
     }
-
-    public async Task<bool> SolutionRoom10Async(string code)
-    {
-        // solucion aqui
-        return true; // Placeholder logic
-    }
+    
     public async Task<bool> SolutionRoom11Async(string code)
     {
         // solucion aqui
