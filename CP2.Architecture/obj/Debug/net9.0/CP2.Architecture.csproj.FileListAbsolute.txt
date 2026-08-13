@@ -42,6 +42,7 @@ C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.AssemblyInfoInputs.cache
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.AssemblyInfo.cs
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.sourcelink.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.dll
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\refint\CP2.Architecture.dll
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Architecture\obj\Debug\net9.0\CP2.Architecture.pdb

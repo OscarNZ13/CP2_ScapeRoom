@@ -91,6 +91,7 @@ C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.Asse
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.CoreCompileInputs.cache
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.sourcelink.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

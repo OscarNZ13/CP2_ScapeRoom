@@ -39,6 +39,7 @@ C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.AssemblyInfoInputs.cache
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.AssemblyInfo.cs
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.sourcelink.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repo.0471CBAD.Up2Date
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.dll
 C:\Users\kokar\source\repos\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\refint\CP2.Repositories.dll

@@ -28,6 +28,7 @@ C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.Gene
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfoInputs.cache
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.AssemblyInfo.cs
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.csproj.CoreCompileInputs.cache
+C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.sourcelink.json
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.dll
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\refint\CP2.COR.dll
 C:\Users\kokar\source\repos\CP2 - Students\CP2.COR\obj\Debug\net9.0\CP2.COR.pdb
